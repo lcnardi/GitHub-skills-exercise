@@ -1,2 +1,3 @@
+# Added Django requirement based on mona-high-school-fitness-tracker.md
 Django>=3.2,<4.0
 psycopg2-binary
